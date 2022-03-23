@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- ====================================================================== -->
-<!-- Ant build file (http://ant.apache.org/) for Ant 1.6.2 or above.  code lab training       -->
+<!-- Ant build file (http://ant.apache.org/) for Ant 1.6.2 or above.  my practice      -->
 <!-- ====================================================================== -->
 
 <project name="roshambo" default="package" basedir=".">
